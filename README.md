@@ -6,16 +6,10 @@ My name is Rone, nice to meet you👋
 - 💬 Ask me about something you're not sure about
 - 😄 Pronouns: He
 
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
-
 <div align="center">
   <a href="https://github.com/Rone-santos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rone-santos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rone-santos&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rone-santos&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rone-santos&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -36,7 +30,7 @@ My name is Rone, nice to meet you👋
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Rone-santos/Rone-santos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rone-santos/rone-santos/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
