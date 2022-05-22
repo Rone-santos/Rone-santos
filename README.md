@@ -8,8 +8,8 @@ My name is Rone, nice to meet you👋
 
 <div align="center">
   <a href="https://github.com/Rone-santos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rone-santos&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rone-santos&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rone-santos&count_private=true&include_all_commits=true&show_icons=true&theme=react&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rone-santos&theme=react&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -25,16 +25,14 @@ My name is Rone, nice to meet you👋
   <a href="https://www.facebook.com/rone.c.santos/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rone.c.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rone-césar-santos-41371829/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:imperdoavelster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div>
-
-<div align="center">
+  <a href="mailto:imperdoavelster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rone-santos/rone-santos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rone-santos/Rone-santos/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rone-santos&repo=Rone-santos&theme=react)](https://github.com/Rone-santos/Rone-santos)
+
 <div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></
-   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rone-santos&repo=Rone-santos&theme=react)](https://github.com/Rone-santos/Rone-santos)
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
  </div>
