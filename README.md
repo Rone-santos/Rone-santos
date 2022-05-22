@@ -27,7 +27,7 @@ My name is Rone, nice to meet you👋
   <a href="https://www.linkedin.com/in/rone-césar-santos-41371829/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:imperdoavelster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/Rone-santos/Rone-santos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rone-santos/Rone-santos.git/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
