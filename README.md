@@ -28,8 +28,6 @@ My name is Rone, nice to meet you👋
   <a href="mailto:imperdoavelster@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Rone-santos/Rone-santos/blob/output/github-contribution-grid-snake.svg)
-
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rone-santos&repo=Rone-santos&theme=react)](https://github.com/Rone-santos/Rone-santos)
 
 <div align="center">
