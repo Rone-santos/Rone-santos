@@ -18,6 +18,7 @@ My name is Rone, nice to meet you👋
   <img align="center" alt="Rone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rone-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Rone-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="right" alt="" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95192062/170879337-a98a70e5-4588-4523-be0c-69d6f88d5c27.jpg">
 </div><br>
 
 <div align="center">
