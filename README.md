@@ -2,7 +2,7 @@
 My name is Rone, nice to meet you👋
 
 - 🏡 I'm practicing at home 3D modeling, English and image/audio editing.
-- 🌱 I’m currently learning HTML 5 and CSS3.
+- 🌱 I’m currently learning HTML5 and CSS3.
 - 💬 Ask me about something you're not sure about
 - 😄 Pronouns: He
 
